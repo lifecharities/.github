@@ -1,2 +1,2 @@
 # Life Charities
-<img src="banner.png">
+<img src="/profile/banner.png">
